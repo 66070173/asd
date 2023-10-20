@@ -19,4 +19,11 @@
     width: 50px;
     height: 50 px;
 }
-
+.pic {
+    display: block;
+    margin: auto;
+}
+.backg {
+    background-color: aquamarine;
+    text-align: center;
+}
